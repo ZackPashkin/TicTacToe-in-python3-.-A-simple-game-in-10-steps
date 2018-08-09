@@ -1,7 +1,7 @@
 # TicTacToe in python3. A simple game in just simple 10 steps in google colab(jupiter) notebook
 Run-and-play ready:))
 
-![](Tic Tac Toe.gif)
+![] (TicTacToe.gif)
 
 https://github.com/ZackPashkin/TicTacToe-in-python3-.-A-simple-game-in-10-steps/blob/master/TicTacToe_Game_python3.ipynb
 
