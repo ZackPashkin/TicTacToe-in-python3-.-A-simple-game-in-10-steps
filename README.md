@@ -7,6 +7,6 @@ https://github.com/ZackPashkin/TicTacToe-in-python3-.-A-simple-game-in-10-steps/
 
 You can view it in colaboratory as well
 
-Hope it will help you to learn python as it helped me! 
+Hope it will help you with learning python as it helped me! 
 Original idea belongs to Jose Portilla, a great teacher or python.
-I commented steps to highlight thoughts and logic of the game
+I commented steps to highlight thoughts and logic of the game.
